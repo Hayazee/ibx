@@ -1,0 +1,25 @@
+{
+  "short_name": "IBXWebHosting",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "https://IBXWebHosting/wp-content/uploads/2019/08/logo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://IBXWebHosting/wp-content/uploads/2019/08/logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://IBXWebHosting/wp-content/uploads/2019/08/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://IBXWebHosting/wp-content/uploads/2019/08/logo.png",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
